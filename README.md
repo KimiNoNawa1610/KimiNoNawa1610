@@ -6,9 +6,13 @@
 
 --------
 
-- 📚  I'm currently a senior at **California State University of Long Beach - USA**
+- 📚  I'm currently a Computer Science senior at **California State University of Long Beach - USA**
 - 😼  I enjoy building great product for user & operating it
 - 👨‍ 💻 I've been coding in years using **Java**, **C++**, **HTML/CSS** and **Python** technologies.
+- 🐱‍🏍 My current web project: **https://github.com/KimiNoNawa1610/Financial-Applicaiton-Analysis-Project**
+- 👷‍♂️ My Interesting Cyber Security project: **https://github.com/KimiNoNawa1610/Android-Malware**
+- 👨‍💻 My Windows application: **https://github.com/KimiNoNawa1610/MP3-Player-APPLICATION-PROJECT**
+- 🛠  My Android applications: **https://github.com/KimiNoNawa1610/Android-Apps**
 - 😎  More tools that i'm using: **Trello, OpenCV**
 - 😳  Databases: **MySQL, SQLServer, MongoDB**
 
