@@ -18,8 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiNoNawa1610&show_icons=true&locale=en&layout=compact" alt="KimiNoNaWa1610" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KimiNoNawa1610&show_icons=true&locale=en" alt="KimiNoNawa1610" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KimiNoNawa1610&" alt="KimiNoNawa1610" /></p>
 
 Thanks for watching my profile! Have a nice day browsing my repos!
