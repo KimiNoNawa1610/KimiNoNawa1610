@@ -6,7 +6,7 @@
 
 --------
 
-- 📚  I'm currently a Computer Science senior at **California State University of Long Beach - USA**
+- 📚  I Graduated from **California State University of Long Beach - USA** with Major in Computer Science and Applied Mathematics Minor
 - 😼  I enjoy building great product for user & operating it
 - 👨‍ 💻 I've been coding in years using **Java**, **C++**, **HTML/CSS** and **Python** technologies.
 - 🐱‍🏍 My current web project: **https://github.com/KimiNoNawa1610/Financial-Applicaiton-Analysis-Project**
