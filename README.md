@@ -6,15 +6,15 @@
 
 --------
 
-- 📚  I Graduated from **California State University of Long Beach - USA** with Major in Computer Science and Applied Mathematics Minor
-- 😼  I enjoy building great product for user & operating it
-- 👨‍ 💻 I've been coding in years using **Java**, **C++**, **HTML/CSS** and **Python** technologies.
+- 📚  I Graduated from **California State University of Long Beach - USA** with a Major in Computer Science and an Applied Mathematics Minor
+- 😼  I enjoy building great products for users.
+- 👨‍ 💻 I've been coding in years using **Python**,**Java**, **C++**, **HTML/CSS**.
 - 🐱‍🏍 My current web project: **https://github.com/KimiNoNawa1610/Financial-Applicaiton-Analysis-Project**
 - 👷‍♂️ My Interesting Cyber Security project: **https://github.com/KimiNoNawa1610/Android-Malware**
 - 👨‍💻 My Windows application: **https://github.com/KimiNoNawa1610/MP3-Player-APPLICATION-PROJECT**
 - 🛠  My Android applications: **https://github.com/KimiNoNawa1610/Android-Apps**
-- 😎  More tools that i'm using: **Trello, OpenCV**
-- 😳  Databases: **MySQL, SQLServer, MongoDB**
+- 😎  More tools that i'm using: **Trello, OpenCV, Zira, Monday.com**
+- 😳  Databases: **MySQL, PostgreSQL, SQLServer, MongoDB**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KimiNoNawa1610&show_icons=true&locale=en&layout=compact" alt="KimiNoNaWa1610" /></p>
 
